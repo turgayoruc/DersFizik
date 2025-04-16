@@ -2,7 +2,7 @@
     "name": "MyInputAction",
     "maps": [
         {
-            "name": "Player",
+            "name": "PlayerKeyboard",
             "id": "23376580-8d3a-4288-89cf-bc84d888d366",
             "actions": [
                 {
